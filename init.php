@@ -3,7 +3,7 @@ class Bbc_Guid_Fixer extends Plugin {
 	public function about() {
 		return [
 			null, // version
-			'Strips fragments from BBC RSS feed article GUIDs', // description
+			'Strips fragments from BBC RSS feed article GUIDs!', // description
 			'wn', // author
 			false, // is system
 			'https://github.com/supahgreg/ttrss-bbc-guid-fixer', // more info URL
