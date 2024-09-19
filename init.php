@@ -6,7 +6,7 @@ class Bbc_Guid_Fixer extends Plugin {
 			'Strips fragments from BBC RSS feed article GUIDs', // description
 			'wn', // author
 			false, // is system
-			'', // more info URL
+			'https://github.com/supahgreg/ttrss-bbc-guid-fixer', // more info URL
 		];
 	}
 
